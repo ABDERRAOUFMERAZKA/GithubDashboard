@@ -1,0 +1,16 @@
+Bonjour Eric,
+dans ce mail je te partage un petit feedback du meetup flutter d'hier.
+
+2 talks ont été fait, le premier par Kevin Segaud, dans lequel il a présenter comment faire fonctionner une application flutter sur mobile, web desktop dans
+windows, mac, ou linux. beaucoup de questions ont été posés sur flutter web, les réponses étaient beaucoup plus dans le genre de patienter un peu avant de
+mettre en place un projet pareil, il faut prévoir au moin un an pour avoir une version stable.
+
+un deuxième talk a été fait par Aloïs Deniel, dans lequel il parlait de l'adaptation du visuel dans les différentes platformes, il a cité l'exemple du ios date
+picker qui s'affiche pas dans android, et les fontes qui se chargent pas tous dans le navigateur, ou il faut les embarquer dans le pubspec.yaml. ainsi que
+l'utilisation des MediaQuery pour gérer l'affichage dans les différentes tailles d'écrans
+une présentation du plugin 'Device_preview' a été faite aussi, il s'agit d'un plugin qui permet de tester le rendu sur différent devices dans une console
+secondaire.
+
+prochain meetup flutter: https://www.meetup.com/fr-FR/Flutter-Embarquement-immediat/events/265114528/
+
+une conférence flutter europe sera organisé a varsovie le 23,24 janvier. les prix des tickets sont entre 134 et 200 Euros.
